@@ -1,3 +1,5 @@
+USED MODERN JDBC CONNECTION FOR THIS SIMPLE CRUD PROJECT
+
 <img width="1116" height="1222" alt="image" src="https://github.com/user-attachments/assets/6f5bcc7a-ceee-4c41-bdf6-579d7ab0301a" />
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/41bd0821-fb95-4850-807a-b17437e20312" />
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/0d50d4e5-5425-4429-8b9a-c590878cd2cc" />
